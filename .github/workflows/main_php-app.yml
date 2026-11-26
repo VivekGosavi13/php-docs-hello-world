@@ -57,4 +57,4 @@ jobs:
           app-name: 'php-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_222D950010794C89BE27BF6DE5EB56B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A69E60FD1804A0CA7627D35C0E25F4C }}
